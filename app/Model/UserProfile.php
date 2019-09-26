@@ -1,0 +1,6 @@
+<?
+
+class UserProfile extends AppModel {
+    
+
+}
